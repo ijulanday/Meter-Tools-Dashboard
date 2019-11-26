@@ -20,8 +20,9 @@ The point of this repository is to be expandable to different CFML projects deve
 
 * [CFDocs](https://cfdocs.org/) is great for quickly referencing CF concepts and is full of useful example code in both markup and script format.
 * [Learn CF In A Week](http://www.learncfinaweek.com/) is good for complete CF beginners.
-* [This Tomcat Training GitHub](https://github.com/apache/tomcat-training) for learning more about the inner-workings of the Apache Tomcat server Lucee is based on
-* [W3Schools](https://www.w3schools.com/) for HTML, CSS, JavaScript, & more (with lots of examples and demo modules)
+* [This Tomcat Training GitHub](https://github.com/apache/tomcat-training) for learning more about the inner-workings of the Apache Tomcat server Lucee is based on.
+* [W3Schools](https://www.w3schools.com/) for HTML, CSS, JavaScript, & more (with lots of examples and demo modules).
+* Never used git before? Check out [git - the simple guide](https://rogerdudler.github.io/git-guide/). Alternatively, you can use [GitKraken](https://www.gitkraken.com/), a GUI tool for git.
 
 More references and guides can be found in the [module-docs](./module-docs) as well.
 
