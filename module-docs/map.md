@@ -9,7 +9,7 @@ To parse excel spreadsheets with CF in Lucee, you'll first need to clone or copy
 **map.cfm** maps reports with [Google Maps API](https://developers.google.com/maps/documentation). In order to run use Google Maps on **map.cfm**, you'll need to generate an API key and paste it in the relevant section as shown below.
 
 <p align="center">
-  <img src="./image-resources/maps-api-key-field.png" alt="Help Page Screenshot" width="420">
+  <img src="../image-resources/maps-api-key-field.png" alt="Help Page Screenshot" width="420">
 </p>
 
 ## Google Developers Setup
@@ -19,7 +19,7 @@ To generate API keys, you'll need a Google account to access the [Google Develop
 ## Google Maps Billing
 
 <p align="center">
-  <img src="./image-resources/google-maps-pricing.png" alt="Help Page Screenshot" width="420">
+  <img src="../image-resources/google-maps-pricing.png" alt="Help Page Screenshot" width="420">
 </p>
 
 **map.cfm** uses Dynamic Maps and was tested using a personal account, and the image above shows pricing quoted for an individual user. 
