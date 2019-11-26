@@ -4,7 +4,7 @@ This is the start of a Lucee server based web application for creating useful th
 
 ## Usage
 
-Information on usage can be found in-app once the repository has been installed on Lucee server under the "Help" page. More module-specific information, such as billing information for modules that use paid APIs, can be found in the [module-docs](https://github.com/ijulanday/Meter-Tools-Dashboard/module-docs) section.
+Information on usage can be found in-app once the repository has been installed on Lucee server under the "Help" page. More module-specific information, such as billing information for modules that use paid APIs, can be found in the [module-docs](./module-docs) section.
 
 <p align="center">
   <img src="./image-resources/help-page-screenshot.png" alt="Help Page Screenshot" width="420">
@@ -12,7 +12,7 @@ Information on usage can be found in-app once the repository has been installed 
 
 ## Installation
 
-This project runs on [Lucee](https://download.lucee.org/). To use the modules here, clone this repository into your Lucee ROOT directory. Specific information on installing each module and troubleshooting bugs can be found in the [module-docs](https://github.com/ijulanday/Meter-Tools-Dashboard/module-docs) section.
+This project runs on [Lucee](https://download.lucee.org/). To use the modules here, clone this repository into your Lucee ROOT directory. Specific information on installing each module and troubleshooting bugs can be found in the [module-docs](./module-docs) section.
 
 ## Roadmap / Finding Help
 
@@ -23,5 +23,5 @@ The point of this repository is to be expandable to different CFML projects deve
 * [This Tomcat Training GitHub](https://github.com/apache/tomcat-training) for learning more about the inner-workings of the Apache Tomcat server Lucee is based on
 * [W3Schools](https://www.w3schools.com/) for HTML, CSS, JavaScript, & more (with lots of examples and demo modules)
 
-More references and guides can be found in the [module-docs](https://github.com/ijulanday/Meter-Tools-Dashboard/module-docs) as well.
+More references and guides can be found in the [module-docs](./module-docs) as well.
 
